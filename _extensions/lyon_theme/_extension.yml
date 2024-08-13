@@ -6,5 +6,5 @@ contributes:
   formats:
     revealjs:
       theme:
-        light: lyon_light.scss
-        dark: lyon_dark.scss
+        - lyon_light.scss
+        - lyon_dark.scss
