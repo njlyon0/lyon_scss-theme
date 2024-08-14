@@ -1,3 +1,9 @@
+## `v 1.2.0` Features
+
+Changes from the prior version include:
+
+- Removed code language semantics (only needed by one project and are easier to maintain there)
+
 ## `v 1.1.0` Features
 
 Changes from the prior version are listed below:
